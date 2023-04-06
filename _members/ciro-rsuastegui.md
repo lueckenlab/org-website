@@ -1,6 +1,6 @@
 ---
 name: Ciro Ramírez-Suástegui
-image: images/photo.jpg
+image: https://pbs.twimg.com/profile_images/1355544628079054858/iTCA1AYr_400x400.jpg
 description: Research Assistant
 role: phd
 group: alum

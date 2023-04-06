@@ -1,6 +1,6 @@
 ---
 name: Daniel Strobl
-image: images/photo.jpg
+image: https://avatars.githubusercontent.com/u/50872326?v=4
 role: phd
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: Vladimir Shitov
-image: images/photo.jpg
+image: https://pbs.twimg.com/profile_images/1510749152665387013/m2kczQp0_400x400.jpg
 role: phd
 group: alum
 links:
