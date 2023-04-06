@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# lueckenlab's Website
+# The Lucky Lab welcomes you to our site
 
 We build machine learning models on single-cell data and translate these to clinical applications predominantly in lung research. In particular, we focus on building cellular reference models of human tissues by integrating diverse single-cell datasets to improve the representation of human diversity. Using these reference models we are pioneering efforts to model patient variation, enable rapid analysis of new data, and work towards personlized medicine.
 
@@ -33,7 +33,7 @@ We work on building atlases, using these atlases, and designing quality standard
 
 {%
   include feature.html
-  image="images/logo-lab.png"
+  image="images/scib.png"
   link="projects"
   title="Our Projects"
   flip=true
