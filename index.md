@@ -22,7 +22,7 @@ We work on building atlases, using these atlases, and designing quality standard
 
 {%
   include button.html
-  link="tools"
+  link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true

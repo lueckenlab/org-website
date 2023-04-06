@@ -1,6 +1,16 @@
+- id: doi:10.1038/s41592-021-01336-8
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-021-01336-8/MediaObjects/41592_2021_1336_Fig1_HTML.png?as=webp
+  tags:
+    - open science
+    - benchmarking
+  repo: theislab/scib
+
+- id: doi:10.1101/2022.03.10.483747
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/03/11/2022.03.10.483747/F1.large.jpg?width=800&height=600&carousel=1
+
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Example of complex description of a publication.
   date: 2020-12-4
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
@@ -15,9 +25,3 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
