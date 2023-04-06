@@ -1,6 +1,6 @@
 title: Integrative Genomics
 subtitle: by the Lücken Lab at the Computational Health Center
-description: We build machine learning models on single-cell data and translate these to clinical applications predominantly in lung research. In particular, we focus on building cellular reference models of human tissues by integrating diverse single-cell datasets to improve the representation of human diversity. Using these reference models we are pioneering efforts to model patient variation, enable rapid analysis of new data, and work towards personlized medicine.
+description: A GitHub based website for the Lücken Lab at CHC Helmholtz.
 header: images/background.jpg
 footer: images/background.jpg
 links:
