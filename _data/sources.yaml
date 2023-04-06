@@ -7,21 +7,3 @@
 
 - id: doi:10.1101/2022.03.10.483747
   image: https://www.biorxiv.org/content/biorxiv/early/2022/03/11/2022.03.10.483747/F1.large.jpg?width=800&height=600&carousel=1
-
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Example of complex description of a publication.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
