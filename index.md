@@ -22,8 +22,8 @@ We work on building atlases, using these atlases, and designing quality standard
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,8 +34,8 @@ We work on building atlases, using these atlases, and designing quality standard
 {%
   include feature.html
   image="images/scib.png"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Our research"
   flip=true
   style="bare"
   text=text
