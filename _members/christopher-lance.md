@@ -3,6 +3,9 @@ name: Christopher Lance
 image: https://pbs.twimg.com/profile_images/1163428158978347008/GvZ-QLbm_400x400.jpg
 role: phd
 group: alum
+aliases:
+  - Lance
+  - xlancelottx
 links:
   email: christopher.lance@helmholtz-munich.de
   home-page: https://github.com/xlancelottx

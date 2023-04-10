@@ -4,6 +4,10 @@ image: https://pbs.twimg.com/profile_images/1355544628079054858/iTCA1AYr_400x400
 description: Research Assistant
 role: phd
 group: alum
+aliases:
+  - Ramírez-Suástegui
+  - Ramirez-Suastegui
+  - cramsuig
 links:
   email: ciro.rsuastegui@helmholtz-munich.de
   home-page: https://github.com/cramsuig

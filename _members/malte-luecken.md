@@ -1,9 +1,9 @@
 ---
-name: Malte D. Lücken
+name: Malte D Lücken
 image: https://pbs.twimg.com/profile_images/1118078814523985920/wSxByQ6Y_400x400.png
 role: pi
 aliases:
-  - Malte
+  - Luecken
   - LuckyMD
 links:
   home-page: https://github.com/LuckyMD

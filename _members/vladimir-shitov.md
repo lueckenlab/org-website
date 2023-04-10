@@ -3,6 +3,9 @@ name: Vladimir Shitov
 image: https://pbs.twimg.com/profile_images/1510749152665387013/m2kczQp0_400x400.jpg
 role: phd
 group: alum
+aliases:
+  - Shitov
+  - VladimirShitov
 links:
   email: vladimir.shitov@helmholtz-munich.de
   home-page: https://github.com/VladimirShitov
