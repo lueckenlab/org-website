@@ -3,7 +3,13 @@
   tags:
     - open science
     - benchmarking
+    - single-cell
   repo: theislab/scib
 
 - id: doi:10.1101/2022.03.10.483747
   image: https://www.biorxiv.org/content/biorxiv/early/2022/03/11/2022.03.10.483747/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+    - lung
+    - atlas
+    - single-cell
+  repo: LungCellAtlas/HLCA_reproducibility
