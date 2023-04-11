@@ -1,5 +1,5 @@
-- title: Benchmarking atlas-level data integration in single-cell genomics
-  subtitle: scIB
+- title: scIB
+  subtitle: Benchmarking atlas-level data integration in single-cell genomics
   group: featured
   image: images/scIB.png
   link: https://github.com/theislab/scIB
@@ -7,6 +7,16 @@
   repo: theislab/scIB
   tags:
     - resource
+    - software
+
+- title: iHCA
+  subtitle: An Integration Pipeline for the Human Cell Atlas
+  group: featured
+  image: images/scIB.png
+  link: https://github.com/lueckenlab/hca_integration_pipeline
+  description: 'There are multiple standalone modules that can be run independently or combined: data loading, exploration, preprocessing, label harmonization, integration, metrics.'
+  repo: lueckenlab/hca_integration_pipeline
+  tags:
     - software
 
 - title: 'Current best practices in single-cell RNA-seq analysis: a tutorial'
