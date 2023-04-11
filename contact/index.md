@@ -44,7 +44,7 @@ Please feel free to reach out to us! Many great things happen when you follow yo
 
 {%
   include figure.html
-  image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-021-01336-8/MediaObjects/41592_2021_1336_Fig1_HTMLpng?as=webp"
+  image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-021-01336-8/MediaObjects/41592_2021_1336_Fig1_HTML.png?as=webp"
   caption="The Research"
 %}
 
@@ -55,7 +55,8 @@ Please feel free to reach out to us! Many great things happen when you follow yo
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Is our research what you are curious about?
+Is our research what
+you are curious about?
 {% endcapture %}
 
 {% capture col2 %}
@@ -63,7 +64,7 @@ Compose that email.
 {% endcapture %}
 
 {% capture col3 %}
-Send!
+      Send!
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

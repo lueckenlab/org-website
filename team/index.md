@@ -14,7 +14,7 @@ Meet the faces and names of the heart of the lab!
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/team.jpg" dark=true align="center" %}
 
 We all feel fortunate to be part of the Lucky Lab.
 
