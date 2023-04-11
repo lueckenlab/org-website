@@ -17,15 +17,9 @@ Please feel free to reach out to us! Many great things happen when you follow yo
 %}
 {%
   include button.html
-  type="phone"
-  text="(9999) 999 9999"
-  link="04999999999999"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="google.com/maps/place/Germany/@51.1461477,7.8168976,7z"
+  link="https://www.google.com/maps/place/Germany/@51.1461477,7.8168976,7z"
 %}
 
 {% include section.html %}
