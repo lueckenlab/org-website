@@ -16,7 +16,7 @@ phd:
   description: PhD Student
 
 phd_associate:
-  icon: fa-solid fa-brain-arrow-curved-right
+  icon: fa-solid fa-user-plus
   description: Associate PhD Student
 
 undergrad:

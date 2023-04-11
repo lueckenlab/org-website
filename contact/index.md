@@ -54,17 +54,14 @@ Please feel free to reach out to us! Many great things happen when you follow yo
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Is our research what
+{% capture col1 %} Is our research what
 you are curious about?
 {% endcapture %}
 
-{% capture col2 %}
-Compose that email.
+{% capture col2 %} Compose that email.
 {% endcapture %}
 
-{% capture col3 %}
-      Send!
+{% capture col3 %} Send!
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
