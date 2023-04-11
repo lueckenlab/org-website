@@ -1,6 +1,7 @@
 # map general type to default/fallback icon, text, etc.
 
 # team member roles
+# icons: https://fontawesome.com/icons
 
 pi:
   icon: fa-solid fa-microscope

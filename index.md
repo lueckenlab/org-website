@@ -43,7 +43,7 @@ We work on building atlases, using these atlases, and designing quality standard
 
 {% capture text %}
 
-Our team welcomes highly motivated people from any background and any part of the world. We are a very colaborative and interactive group. We love to get together for coding sessions or just to grab a drink during our breaks.
+Our team welcomes highly motivated people from any background and any part of the world. We are a very colaborative and interactive group. We love to get together to talk about science, for coding sessions, or just to grab a drink during our breaks.
 
 {%
   include button.html
