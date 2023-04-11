@@ -1,7 +1,7 @@
 ---
 name: Daniel Strobl
 image: https://avatars.githubusercontent.com/u/50872326?v=4
-role: phd
+role: phd_associate
 group: alum
 aliases:
   - Strobl
