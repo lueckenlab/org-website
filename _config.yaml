@@ -1,15 +1,12 @@
-title: lueckenlab
-subtitle: by the Greene Lab
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Integrative Genomics
+subtitle: by the Lücken Lab at the Computational Health Center
+description: A GitHub based website for the Lücken Lab at CHC Helmholtz.
+header: images/midjourney_lung.png
+footer: images/midjourney_lung.png
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: malte.lucken@helmholtz-munich.de
+  github: lueckenlab
+  twitter: mdluecken
 defaults:
   - scope:
       path: ""

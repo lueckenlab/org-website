@@ -1,47 +1,37 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: scIB
+  subtitle: Benchmarking atlas-level data integration in single-cell genomics
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/scIB.png
+  link: https://github.com/theislab/scIB
+  description: This repository contains the code for the scib package used in our benchmarking study for data integration tools.
+  repo: theislab/scIB
   tags:
     - resource
+    - software
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: iHCA
+  subtitle: An Integration Pipeline for the Human Cell Atlas
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/scIB.png
+  link: https://github.com/lueckenlab/hca_integration_pipeline
+  description: 'There are multiple standalone modules that can be run independently or combined: data loading, exploration, preprocessing, label harmonization, integration, metrics.'
+  repo: lueckenlab/hca_integration_pipeline
   tags:
-    - resource
+    - software
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 'Current best practices in single-cell RNA-seq analysis: a tutorial'
+  image: https://camo.githubusercontent.com/59893ad5327f7bcf4aad25cf8400eb8089e9734d3a0eb855a7699f57944eee2c/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31596f58334638674e4748354b3041467534774664643563634558542d6d505f4a
+  link: https://github.com/theislab/single-cell-tutorial
+  description: 'Scripts for "Current best-practices in single-cell RNA-seq: a tutorial"'
+  repo: theislab/single-cell-tutorial
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Mapping your data to the Human Lung Cell Atlas
+  image: https://raw.githubusercontent.com/LungCellAtlas/mapping_data_to_the_HLCA/main/docs/HLCA_mapping_overview_figure.png
+  link: https://github.com/LungCellAtlas/mapping_data_to_the_HLCA
+  description: This repository enables you to map your own single-cell or single-nucleus data to the Human Lung Cell Atlas.
+  repo: LungCellAtlas/mapping_data_to_the_HLCA
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - resource

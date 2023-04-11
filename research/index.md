@@ -7,14 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research so far has focused on building atlases, using these atlases, and designing quality standards for single cell analyses.
+
+Here's a list of the latest papers from the lab.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="An integrated cell atlas of the human lung in health and disease" style="rich" %}
+
+{% include citation.html lookup="Benchmarking atlas-level data integration in single-cell genomics" style="rich" %}
 
 {% include section.html %}
 
