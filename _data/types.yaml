@@ -17,7 +17,7 @@ phd:
 
 phd_associate:
   icon: fa-solid fa-user-plus
-  description: Associate PhD Student
+  description: Associated PhD Student
 
 undergrad:
   icon: fa-solid fa-user-graduate

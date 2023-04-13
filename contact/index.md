@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please feel free to reach out to us! Many great things happen when you follow your interests and what you are passionate about.
+Please feel free to reach out to us!
 
 {%
   include button.html
