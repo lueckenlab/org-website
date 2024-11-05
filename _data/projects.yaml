@@ -17,15 +17,6 @@
   tags:
     - grant
 
-- title: RESPIRE-EXCEL
-  subtitle: Respiratory Precision Medicine PhD Training Network- Excellence through Systems Biology, Spatial and Single-cell Transcriptomics
-  group: featured
-  image: images/respire_excel_bronchiole.jpg
-  link: https://www.helmholtz-munich.de/en/newsroom/news-all/artikel/respire-excel
-  description: We are participating in an EU-funded doctoral network on understanding mechanisms, identifying biomarkers, and developing treatments for chronic lung diseases including Asthma and COPD. We interact with groups across disciplines to build tools and analyse data to generate insights in asthma and COPD with translational impact.
-  tags:
-    - grant
-
 - title: HLCA
   subtitle: Human Lung Cell Atlas
   group: featured
@@ -35,3 +26,13 @@
   repo: LungCellAtlas/mapping_data_to_the_HLCA
   tags:
     - resource
+
+- title: RESPIRE-EXCEL
+  subtitle: Respiratory Precision Medicine PhD Training Network- Excellence through Systems Biology, Spatial and Single-cell Transcriptomics
+  group: featured
+  image: images/respire_excel_bronchiole.jpg
+  link: https://www.helmholtz-munich.de/en/newsroom/news-all/artikel/respire-excel
+  description: We are participating in an EU-funded doctoral network on understanding mechanisms, identifying biomarkers, and developing treatments for chronic lung diseases including Asthma and COPD. We interact with groups across disciplines to build tools and analyse data to generate insights in asthma and COPD with translational impact.
+  tags:
+    - grant
+
