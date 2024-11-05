@@ -9,24 +9,23 @@
     - resource
     - software
 
-- title: iHCA
-  subtitle: An Integration Pipeline for the Human Cell Atlas
+- title: SPACETIME
+  subtitle: 
   group: featured
-  image: images/scIB.png
-  link: https://github.com/lueckenlab/hca_integration_pipeline
-  description: 'There are multiple standalone modules that can be run independently or combined: data loading, exploration, preprocessing, label harmonization, integration, metrics.'
-  repo: lueckenlab/hca_integration_pipeline
+  image: images/SPACETIME.jpg
+  link: https://www.helmholtz-munich.de/en/newsroom/news-all/artikel/12-million-euro-grant-awarded-to-spacetime-for-lung-cancer-research
+  description: SPACETIME is an EU consortium studying how spatial cellular organization changes with disease severity in non-small cell lung carcinoma (NSCLC). We are collaborating with biologists, clinicians, biotechnologists, and other computational biologists or machine learning scientists to build a spatial multiomic map of NSCLC across species and disease stages with the goal of building better diagnostics, expanding our understanding of disease mechanisms, and developing treatment options to improve outcomes for lung cancer patients.
   tags:
-    - software
+    - grant
 
-- title: 'Current best practices in single-cell RNA-seq analysis: a tutorial'
-  image: https://camo.githubusercontent.com/59893ad5327f7bcf4aad25cf8400eb8089e9734d3a0eb855a7699f57944eee2c/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31596f58334638674e4748354b3041467534774664643563634558542d6d505f4a
-  link: https://github.com/theislab/single-cell-tutorial
-  description: 'Scripts for "Current best-practices in single-cell RNA-seq: a tutorial"'
-  repo: theislab/single-cell-tutorial
+- title: RESPIRE-EXCEL
+  subtitle: 
+  group: featured
+  image: images/respire_excel_bronchiole.jpg
+  link: https://www.helmholtz-munich.de/en/newsroom/news-all/artikel/respire-excel
+  description: We are participating in an EU-funded doctoral network on understanding mechanisms, identifying biomarkers, and developing treatments for chronic lung diseases including Asthma and COPD. We interact with groups across disciplines to build tools and analyse data to generate insights in asthma and COPD with translational impact.
   tags:
-    - resource
-    - publication
+    - grant
 
 - title: Mapping your data to the Human Lung Cell Atlas
   image: https://raw.githubusercontent.com/LungCellAtlas/mapping_data_to_the_HLCA/main/docs/HLCA_mapping_overview_figure.png
