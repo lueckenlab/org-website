@@ -36,3 +36,12 @@
   tags:
     - grant
 
+- title: Open Problems in Single-cell analysis
+  subtitle: Benchmarking formalized challenges in single-cell analysis
+  image: images/open_problems_logo.png
+  link: https://openproblems.bio/
+  description: Our goal is to provide an open source, community driven, extensible platform for continuously updated benchmarking of formalized tasks in single-cell analysis.
+  repo: openproblems-bio/openproblems
+  tags:
+    - resource
+    - software
