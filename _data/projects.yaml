@@ -1,13 +1,3 @@
-- title: scIB
-  subtitle: Benchmarking atlas-level data integration in single-cell genomics
-  image: images/scIB.png
-  link: https://github.com/theislab/scIB
-  description: This repository contains the code for the scib package used in our benchmarking study for data integration tools.
-  repo: theislab/scIB
-  tags:
-    - resource
-    - software
-
 - title: SPACETIME
   subtitle: SPatial Analysis of Cancer Evolution in the Tumour Immune MicroEnvironment
   group: featured
@@ -42,6 +32,16 @@
   link: https://openproblems.bio/
   description: Our goal is to provide an open source, community driven, extensible platform for continuously updated benchmarking of formalized tasks in single-cell analysis.
   repo: openproblems-bio/openproblems
+  tags:
+    - resource
+    - software
+
+- title: scIB
+  subtitle: Benchmarking atlas-level data integration in single-cell genomics
+  image: images/scIB.png
+  link: https://github.com/theislab/scIB
+  description: We benchmarked 68 method and preprocessing combinations on 85 batches of gene expression, chromatin accessibility and simulation data from 23 publications, altogether representing >1.2 million cells distributed in 13 atlas-level integration tasks. We evaluated methods according to scalability, usability and their ability to remove batch effects while retaining biological variation using 14 evaluation metrics.
+  repo: theislab/scIB
   tags:
     - resource
     - software
