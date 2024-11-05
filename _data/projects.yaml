@@ -27,10 +27,10 @@
   tags:
     - grant
 
-- title: Mapping your data to the Human Lung Cell Atlas
+- title: Human Lung Cell Atlas
   image: https://raw.githubusercontent.com/LungCellAtlas/mapping_data_to_the_HLCA/main/docs/HLCA_mapping_overview_figure.png
-  link: https://github.com/LungCellAtlas/mapping_data_to_the_HLCA
-  description: This repository enables you to map your own single-cell or single-nucleus data to the Human Lung Cell Atlas.
+  link: https://www.nature.com/articles/s41591-023-02327-2
+  description: The integrated Human Lung Cell Atlas (HLCA) represents the first large-scale, integrated single-cell reference atlas of the human lung. It consists of over 2 million cells from the respiratory tract of 486 individuals and includes 49 different datasets. The HLCA is widely used in the community, with over 2,000 downloads of the model alone.
   repo: LungCellAtlas/mapping_data_to_the_HLCA
   tags:
     - resource
