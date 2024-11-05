@@ -36,6 +36,15 @@
     - resource
     - software
 
+- title: HCA integration team
+  subtitle: Human Cell Atlas consortium
+  image: images/hca_logo.png
+  link: https://www.humancellatlas.org/
+  description: We are heavily involved in the Human Cell Atlas (HCA) and are in a leading role in the HCA integration team. Here we coordinate an international group of PhD students and postdocs to build the first version of the HCA, a cellular reference atlas for each human tissue or organ. In 17 projects we work together with the respective HCA organ bionetwork coordinators and their champions to integrate datasets of sufficient quality to build a consensus cellular representation of that organ. We work together with the HCA data repository, the CELLxGENE team (lattice), and the HCA cell annotation project (CAP) team to ingest data, and annotate the resulting objects to build a community consensus annotation. Examples of these projects include the Human Lung Cell Atlas v1, and the Human Retinal Cell Atlas.
+  repo: openproblems-bio/openproblems
+  tags:
+    - resource
+
 - title: scIB
   subtitle: Benchmarking atlas-level data integration in single-cell genomics
   image: images/scIB.png
