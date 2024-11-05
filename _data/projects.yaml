@@ -1,6 +1,5 @@
 - title: scIB
   subtitle: Benchmarking atlas-level data integration in single-cell genomics
-  group: featured
   image: images/scIB.png
   link: https://github.com/theislab/scIB
   description: This repository contains the code for the scib package used in our benchmarking study for data integration tools.
@@ -27,7 +26,9 @@
   tags:
     - grant
 
-- title: Human Lung Cell Atlas
+- title: HLCA
+  subtitle: Human Lung Cell Atlas
+  group: featured
   image: https://raw.githubusercontent.com/LungCellAtlas/mapping_data_to_the_HLCA/main/docs/HLCA_mapping_overview_figure.png
   link: https://www.nature.com/articles/s41591-023-02327-2
   description: The integrated Human Lung Cell Atlas (HLCA) represents the first large-scale, integrated single-cell reference atlas of the human lung. It consists of over 2 million cells from the respiratory tract of 486 individuals and includes 49 different datasets. The HLCA is widely used in the community, with over 2,000 downloads of the model alone.
