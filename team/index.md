@@ -12,7 +12,10 @@ Meet the faces and names of the heart of the lab!
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)(?!alumni$)" %}
+
+# {% include icon.html icon="fa-solid fa-rocket" %}Alumni
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
 
 {% include section.html background="images/team.jpg" dark=true align="center" %}
 
