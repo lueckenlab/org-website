@@ -17,7 +17,7 @@ Meet the faces and names of the heart of the lab!
 # {% include icon.html icon="fa-solid fa-rocket" %}Alumni
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
-# {% include icon.html icon="fa-solid fa-rocket" %}Visiting scholars and students
+# {% include icon.html icon="fa-solid fa-school" %}Visiting scholars and students
 
 We had a pleasure of working with the following people:
 - **Oliver Dietrich** from Saliba lab at the Helmholtz Institute Würzburg
