@@ -20,9 +20,11 @@ Meet the faces and names of the heart of the lab!
 
 {% capture content %}
 
+{% comment %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
+{% endcomment %}
 
 {% endcapture %}
 
