@@ -19,7 +19,7 @@ Please feel free to reach out to us!
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Germany/@51.1461477,7.8168976,7z"
+  link="https://maps.app.goo.gl/3SApiuLvQsKhvAj39"
 %}
 
 {% include section.html %}
