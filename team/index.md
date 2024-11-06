@@ -17,6 +17,14 @@ Meet the faces and names of the heart of the lab!
 # {% include icon.html icon="fa-solid fa-rocket" %}Alumni
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
+# {% include icon.html icon="fa-solid fa-rocket" %}Visiting scholars and students
+
+We had a pleasure of working with the following people:
+- **Oliver Dietrich** from Saliba lab at the Helmholtz Institute Würzburg
+- **Hao Yuan** from Kasper lab at the Karolinska Institute
+- **Ana-Maria Cujba** from Teichmann Lab at the Welcome Sanger Institute
+- **Janneke Hulsen** from Vrije Universiteit Amsterdam
+
 {% include section.html background="images/team.jpg" dark=true align="center" %}
 
 {% include section.html %}
