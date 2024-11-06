@@ -13,3 +13,11 @@
     - atlas
     - single-cell
   repo: LungCellAtlas/HLCA_reproducibility
+
+- id: doi:10.21203/rs.3.rs-4181617/v1
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9e6a/11030530/0657755e1a78/nihpp-rs4181617v1-f0001.jpg
+  tags:
+    - open science
+    - benchmarking
+    - single-cell
+  repo: openproblems-bio/openproblems
