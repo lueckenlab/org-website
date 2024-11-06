@@ -139,8 +139,9 @@ for index, source in enumerate(sources):
     # ensure date in proper format for correct date sorting
     citation["date"] = format_date(citation.get("date"))
 
-    # add new citation to list
-    citations.append(citation)
+    # add new citation to list if it is not empty
+    if citation.get("authors") and citation.get("date") and citation.get("title"):
+        citations.append(citation)
 
 
 log()
