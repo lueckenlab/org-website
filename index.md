@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# The Lucky Lab welcomes you to our site
+# The Lücken Lab (also known as the Lucky lab) welcomes you to our site!
 
 We build machine learning models on single-cell data and translate these to clinical applications predominantly in lung research. In particular, we focus on building cellular reference models of human tissues by integrating diverse single-cell datasets to improve the representation of human diversity. Using these reference models we are pioneering efforts to model patient variation, enable rapid analysis of new data, and work towards personlized medicine.
 
@@ -18,7 +18,7 @@ We build machine learning models on single-cell data and translate these to clin
 
 {% capture text %}
 
-We work on building atlases, using these atlases, and designing quality standards for single cell analyses.
+Our mission is to translate single-cell tools and machine learning methods to clinical applications, with a specific focus on atlases and pulmonary research. High standards in terms of robustness and reliability are set for methods used in clinical practice. To promote translatability of our methods, we aim to apply these standards throughout our single-cell work by promoting open, community-driven benchmarking.
 
 {%
   include button.html
