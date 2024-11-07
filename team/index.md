@@ -29,14 +29,30 @@ We had a pleasure of working with the following people:
 
 {% include section.html %}
 
-{% capture content %}
+# {% include icon.html icon="fa-solid fa-mountain" %}Beyond science
 
-{% comment %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% endcomment %}
+{% capture text %}
+
+According to [our values](https://lueckenlab.github.io/org-website/#our-values), life and science should be not only productive, but also fun. And we are enjoying it along the way!
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{%
+  include feature.html
+  image="images/cutting-edge.jpg"
+  title="On the cutting edge of research"
+  text=text
+%}
+
+{% capture text %}
+
+Outside of working hours, we enjoy hiking, Christmas markets, and the beautiful Munich city. Once in a year, together with Theis lab, we organize a workshop where we all live and work together for a week, usually in the astounishing Alps. 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/hiking-2023.png"
+  title="Outside of the office"
+  text=text
+%}
