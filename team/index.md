@@ -41,6 +41,7 @@ According to [our values](https://lueckenlab.github.io/org-website/#our-values),
   include feature.html
   image="images/cutting-edge.png"
   title="On the cutting edge of research"
+  flip=true
   text=text
 %}
 
@@ -54,5 +55,6 @@ Outside of working hours, we enjoy hiking, Christmas markets, and the beautiful 
   include feature.html
   image="images/hiking-2023.png"
   title="Outside of the office"
+  flip=true
   text=text
 %}
