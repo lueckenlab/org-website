@@ -4,6 +4,7 @@ image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user
 role: phd_associate
 group: alum
 aliases:
+  - Kfury Rubens
   - raphael.kfuri-rubens
 links:
   email: raphael.kfuri-rubens@helmholtz-munich.de
