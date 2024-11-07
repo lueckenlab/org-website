@@ -70,7 +70,7 @@ Our team welcomes highly motivated people from any background and any part of th
 
 2.  Maximize the **utility of single-cell reference atlases**
 
-- Specification: We aim to develop tools and pipelines to leverage atlas power in the number of represented cells and individuals to generate new insights. This includes tools to:
+  - Specification: We aim to develop tools and pipelines to leverage atlas power in the number of represented cells and individuals to generate new insights. This includes tools to:
     - Compare model systems
     - Analyse new data
     - Model inter-individual variation
