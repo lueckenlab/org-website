@@ -4,6 +4,7 @@ image: https://avatars.githubusercontent.com/u/92544773?v=4
 role: phd
 group: alum
 aliases:
+  - Beliaeva
   - Kraftfahrzeughaftpflichtversicherung
   - valentina-beliaeva
 links:

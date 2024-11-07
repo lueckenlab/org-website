@@ -4,6 +4,7 @@ image: https://avatars.githubusercontent.com/u/20745228?v=4
 role: phd_associate
 group: alum
 aliases:
+  - Litinetskaya
   - anastasia.litinetskaya
   - alitinets
 links:
