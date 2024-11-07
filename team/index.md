@@ -41,7 +41,6 @@ According to [our values](https://lueckenlab.github.io/org-website/#our-values),
   include feature.html
   image="images/cutting-edge.png"
   title="On the cutting edge of research"
-  flip=true
   style="bare"
   text=text
 %}
