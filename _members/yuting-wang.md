@@ -15,6 +15,4 @@ links:
   google-scholar: 4gGcLewAAAAJ
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
+Yuting Wang is working on single-cell data integration across conditions. Her work will enable building atlases containing a disease data.

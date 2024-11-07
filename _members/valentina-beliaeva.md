@@ -12,4 +12,4 @@ links:
   linkedin: https://www.linkedin.com/in/valentina-beliaeva-087725248
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Valentina Beliaeva is working on mapping spatial data to the existing single-cell atlases. Her work paves the way to building multimodal atlases.
