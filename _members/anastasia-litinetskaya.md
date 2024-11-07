@@ -12,5 +12,3 @@ links:
   twitter: alitinets
   linkedin: anastasia-litinetskaya-94212b1b3/
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
