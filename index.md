@@ -69,7 +69,6 @@ Our team welcomes highly motivated people from any background and any part of th
 1. Build high-quality **integrated atlases**
 
 2.  Maximize the **utility of single-cell reference atlases**
-
   - Specification: We aim to develop tools and pipelines to leverage atlas power in the number of represented cells and individuals to generate new insights. This includes tools to:
     - Compare model systems
     - Analyse new data
@@ -99,4 +98,4 @@ Our team welcomes highly motivated people from any background and any part of th
 - **Diversity in thinking and representation**: Scientific challenges are complex. This complexity is best tackled from multiple points of view. Therefore, bringing together diverse ways of thinking is crucial for scientific progress. Similarly, tolerance to diverse backgrounds is a core human value. We hold diversity of all kinds in high regard, because this helps us be better scientists and people.
 
 - **Have fun:** If science isn’t fun, we’re doing something wrong!
-- - *note: of course tasks can be boring and frustrating… but in a whole project, this should not outweigh the fun!*
+  - *note: of course tasks can be boring and frustrating… but in a whole project, this should not outweigh the fun!*
