@@ -1,6 +1,6 @@
 ---
 name: Anastasia Litinetskaya
-image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=LDMBJR8AAAAJ&citpid=1
+image: https://avatars.githubusercontent.com/u/20745228?v=4
 role: phd_associate
 group: alum
 aliases:

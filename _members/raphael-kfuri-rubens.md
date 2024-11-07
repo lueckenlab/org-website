@@ -1,6 +1,6 @@
 ---
 name: Raphael Kfuri Rubens
-image: http://raphaelkfurirubens.com/assets/img/prof_pic-480.webp
+image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=4XVFvnUAAAAJ&citpid=1
 role: phd_associate
 group: alum
 aliases:
