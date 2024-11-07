@@ -39,7 +39,7 @@ According to [our values](https://lueckenlab.github.io/org-website/#our-values),
 
 {%
   include feature.html
-  image="images/cutting-edge.jpg"
+  image="images/cutting-edge.png"
   title="On the cutting edge of research"
   text=text
 %}
