@@ -48,7 +48,7 @@ According to [our values](https://lueckenlab.github.io/org-website/#our-values),
 
 {% capture text %}
 
-Outside of working hours, we enjoy hiking, Christmas markets, and the beautiful Munich city. Once in a year, together with Theis lab, we organize a workshop where we all live and work together for a week, usually in the astounishing Alps. 
+Outside of working hours, we enjoy hiking, Christmas markets, and the beautiful Munich city. Once in a year, together with Theis lab, we organize a workshop where we all live and work together for a week, usually in the astonishing Alps. 
 
 {% endcapture %}
 
