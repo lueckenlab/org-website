@@ -6,10 +6,8 @@ group: alum
 aliases:
   - Litinetskaya
   - anastasia.litinetskaya
-  - alitinets
 links:
   email: anastasia.litinetskaya@helmholtz-munich.de
   home-page: https://github.com/alitinet
-  twitter: alitinets
   linkedin: anastasia-litinetskaya-94212b1b3/
 ---
