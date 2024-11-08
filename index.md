@@ -45,7 +45,7 @@ Our mission is to translate single-cell tools and machine learning methods to cl
 
 {% capture text %}
 
-Our team welcomes highly motivated people from any background and any part of the world. We are a very colaborative and interactive group. We love to get together to talk about science, for coding sessions, or just to grab a drink during our breaks.
+Our team welcomes highly motivated people from any background and any part of the world. We are a very collaborative and interactive group. We love to get together to talk about science, for coding sessions, or just to grab a drink during our breaks.
 
 {%
   include button.html
