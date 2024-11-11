@@ -509,6 +509,185 @@
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1438584/v1
+  title: An integrated cell atlas of the human lung in health and disease
+  authors:
+  - Malte Luecken
+  - Lisa Sikkema
+  - Daniel Strobl
+  - Luke Zappia
+  - Elo Madissoon
+  - Nikolay Markov
+  - Laure-Emmanuelle Zaragosi
+  - Meshal Ansari
+  - Marie-Jeanne Arguel
+  - Leonie Apperloo
+  - Christophe Becavin
+  - Marijn Berg
+  - Evgeny Chichelnitskiy
+  - Mei-i Chung
+  - Antoine Collin
+  - Aurore Gay
+  - Baharak Hooshiar Kashani
+  - Manu Jain
+  - Theodore Kapellos
+  - Tessa Kole
+  - Christoph Mayr
+  - Michael von Papen
+  - Lance Peter
+  - "Ciro Ram\xEDrez-Su\xE1stegui"
+  - Janine Schniering
+  - Chase Taylor
+  - Thomas Walzthoeni
+  - Chuan Xu
+  - Linh Bui
+  - Carlo de Donno
+  - Leander Dony
+  - Minzhe Guo
+  - Austin Gutierrez
+  - Lukas Heumos
+  - Ni Huang
+  - "Ignacio Ibarra Del R\xEDo"
+  - Nathan Jackson
+  - Preetish Kadur Lakshminarasimha Murthy
+  - Mohammad Lotfollahi
+  - Tracy Tabib
+  - Carlos Talavera-Lopez
+  - Kyle Travaglini
+  - Anna Wilbrey-Clark
+  - Kaylee Worlock
+  - Masahiro Yoshida
+  - Tushar Desai
+  - Orit Rozenblatt-Rosen
+  - Christine Falk
+  - Naftali Kaminski
+  - Mark Krasnow
+  - Robert Lafyatis
+  - Marko Nikolic
+  - Joseph Powell
+  - Jay Rajagopal
+  - Max Seibold
+  - Dean Sheppard
+  - Douglas Shepherd
+  - Sarah Teichmann
+  - Alexander Tsankov
+  - Jeffrey Whitsett
+  - Yan Xu
+  - Nicholas Banovich
+  - Pascal Barbry
+  - Thu Duong
+  - Kerstin Meyer
+  - Jonathan Kropski
+  - Dana Pe'er
+  - Herbert Schiller
+  - Purushothama Rao Tata
+  - Joachim Schultze
+  - Maarten van den Berge
+  - Yuexin Chen
+  - James Hagood
+  - Ahmed Hassan
+  - Peter Horvath
+  - Joakim Lundeberg
+  - Sylvie Leroy
+  - Charles Marquette
+  - Gloria Pryhuber
+  - Christos Samakovlis
+  - Xin Sun
+  - Lorraine Ware
+  - Kun Zhang
+  - Alexander Misharin
+  - Martijn Nawijn
+  - Fabian Theis
+  publisher: Research Square Platform LLC
+  date: '2022-03-15'
+  link: https://doi.org/g8p9bj
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.03.10.483747
+  title: An integrated cell atlas of the human lung in health and disease
+  authors:
+  - L Sikkema
+  - D Strobl
+  - L Zappia
+  - E Madissoon
+  - NS Markov
+  - L Zaragosi
+  - M Ansari
+  - M Arguel
+  - L Apperloo
+  - "C B\xE9cavin"
+  - M Berg
+  - E Chichelnitskiy
+  - M Chung
+  - A Collin
+  - ACA Gay
+  - B Hooshiar Kashani
+  - M Jain
+  - T Kapellos
+  - TM Kole
+  - C Mayr
+  - M von Papen
+  - L Peter
+  - "C Ram\xEDrez-Su\xE1stegui"
+  - J Schniering
+  - C Taylor
+  - T Walzthoeni
+  - C Xu
+  - LT Bui
+  - C de Donno
+  - L Dony
+  - M Guo
+  - AJ Gutierrez
+  - L Heumos
+  - N Huang
+  - I Ibarra
+  - N Jackson
+  - P Kadur Lakshminarasimha Murthy
+  - M Lotfollahi
+  - T Tabib
+  - C Talavera-Lopez
+  - K Travaglini
+  - A Wilbrey-Clark
+  - KB Worlock
+  - M Yoshida
+  - ' '
+  - T Desai
+  - O Eickelberg
+  - C Falk
+  - N Kaminski
+  - M Krasnow
+  - R Lafyatis
+  - "M Nikol\xEDc"
+  - J Powell
+  - J Rajagopal
+  - O Rozenblatt-Rosen
+  - MA Seibold
+  - D Sheppard
+  - D Shepherd
+  - SA Teichmann
+  - A Tsankov
+  - J Whitsett
+  - Y Xu
+  - NE Banovich
+  - P Barbry
+  - TE Duong
+  - KB Meyer
+  - JA Kropski
+  - "D Pe\u2019er"
+  - HB Schiller
+  - PR Tata
+  - JL Schultze
+  - AV Misharin
+  - MC Nawijn
+  - MD Luecken
+  - F Theis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-11'
+  link: https://doi.org/gr3t7w
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41587-021-01001-7
   title: Mapping single-cell data to reference atlases by transfer learning
   authors:
