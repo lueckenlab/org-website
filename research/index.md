@@ -15,7 +15,7 @@ Here's a list of the latest papers from the lab.
 
 ## Highlighted
 
-{% include citation.html lookup="An integrated cell atlas of the human lung in health and disease" style="rich" %}
+{% include citation.html lookup="An integrated cell atlas of the lung in health and disease" style="rich" %}
 
 {% include citation.html lookup="Benchmarking atlas-level data integration in single-cell genomics" style="rich" %}
 
