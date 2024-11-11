@@ -4,7 +4,7 @@ description: A GitHub based website for the Lücken Lab at CHC Helmholtz.
 header: images/midjourney_lung.png
 footer: images/midjourney_lung.png
 links:
-  email: malte.lucken@helmholtz-munich.de
+  email: malte.luecken@helmholtz-munich.de
   github: lueckenlab
   twitter: mdluecken
 defaults:
@@ -42,7 +42,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: contact@lueckenlab.com
+email: malte.luecken@helmholtz-munich.de
 github: lueckenlab
 twitter: lueckenlab
 instagram: lueckenlab

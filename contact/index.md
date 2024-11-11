@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 4
+  order: 5
   tooltip: Email, address, and location
 ---
 
@@ -12,8 +12,8 @@ Please feel free to reach out to us!
 {%
   include button.html
   type="email"
-  text="malte.lucken@helmholtz-munich.de"
-  link="malte.lucken@helmholtz-munich.de"
+  text="malte.luecken@helmholtz-munich.de"
+  link="malte.luecken@helmholtz-munich.de"
 %}
 {%
   include button.html
