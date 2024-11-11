@@ -7,7 +7,7 @@ aliases:
   - LuckyMD
 links:
   home-page: https://github.com/LuckyMD
-  email: malte.lucken@helmholtz-munich.de
+  email: malte.luecken@helmholtz-munich.de
   orcid: 0000-0001-7464-7921
   twitter: mdluecken
   google-scholar: Nr4KBvUAAAAJ
