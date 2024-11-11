@@ -2,7 +2,7 @@
 name: Ciro Ramírez-Suástegui
 image: https://pbs.twimg.com/profile_images/1355544628079054858/iTCA1AYr_400x400.jpg
 description: Research Assistant
-role: phd
+role: alumni
 group: alum
 aliases:
   - Ramírez-Suástegui
@@ -16,4 +16,4 @@ links:
   google-scholar: MnHV_-QAAAAJ
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ciro worked with us as a research assstant for several years, contributing to Human Lung Cell Atlas (Sikkema et al., Nat Med 2023), Best practices for single-cell analysis across modalities (Heumos et al., Nat Rev Genet 2023) and many other projects. He then continued his scientific adventure at The Wellcome Sanger Institute.

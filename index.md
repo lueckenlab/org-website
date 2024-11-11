@@ -2,9 +2,11 @@
 title: Home
 ---
 
-# The Lucky Lab welcomes you to our site
+# The Lücken Lab (AKA Lucky lab) welcomes you to our site!
 
 We build machine learning models on single-cell data and translate these to clinical applications predominantly in lung research. In particular, we focus on building cellular reference models of human tissues by integrating diverse single-cell datasets to improve the representation of human diversity. Using these reference models we are pioneering efforts to model patient variation, enable rapid analysis of new data, and work towards personlized medicine.
+
+The lab is based in the Institute of Computational Biology (ICB) at [Helmholtz Munich](https://www.helmholtz-munich.de/en/).
 
 <!-- {%
   include figure.html
@@ -18,7 +20,7 @@ We build machine learning models on single-cell data and translate these to clin
 
 {% capture text %}
 
-We work on building atlases, using these atlases, and designing quality standards for single cell analyses.
+Our mission is to translate single-cell tools and machine learning methods to clinical applications, with a specific focus on atlases and pulmonary research. High standards in terms of robustness and reliability are set for methods used in clinical practice. To promote translatability of our methods, we aim to apply these standards throughout our single-cell work by promoting open, community-driven benchmarking.
 
 {%
   include button.html
@@ -43,7 +45,7 @@ We work on building atlases, using these atlases, and designing quality standard
 
 {% capture text %}
 
-Our team welcomes highly motivated people from any background and any part of the world. We are a very colaborative and interactive group. We love to get together to talk about science, for coding sessions, or just to grab a drink during our breaks.
+Our team welcomes highly motivated people from any background and any part of the world. We are a very collaborative and interactive group. We love to get together to talk about science, for coding sessions, or just to grab a drink during our breaks.
 
 {%
   include button.html

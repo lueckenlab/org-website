@@ -1,5 +1,219 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.09.19.613883
+  title: 'ArchMap: A web-based platform for reference-based analysis of single-cell
+    datasets'
+  authors:
+  - Mohammad Lotfollahi
+  - Chelsea Bright
+  - Ronald Skorobogat
+  - Mohammad Dehkordi
+  - Xavier George
+  - Simon Richter
+  - Vladimir Shitov
+  - Alexandra Topalova
+  - Malte D. Luecken
+  - Fabian J. Theis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-09-19'
+  link: https://doi.org/g8p9bd
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-4181617/v1
+  title: Defining and benchmarking open problems in single-cell analysis
+  authors:
+  - Malte Luecken
+  - Scott Gigante
+  - Daniel Burkhardt
+  - Robrecht Cannoodt
+  - Daniel Strobl
+  - Nikolay Markov
+  - Luke Zappia
+  - Giovanni Palla
+  - Wesley Lewis
+  - Daniel Dimitrov
+  - Michael Vinyard
+  - Daniel Magruder
+  - Alma Andersson
+  - Emma Dann
+  - Qian Qin
+  - Dominik Otto
+  - Michal Klein
+  - Olga Botvinnik
+  - Louise Deconinck
+  - Kai Waldrant
+  - Bastian Rieck
+  - Constantin Ahlmann-Eltze
+  - Eduardo da Veiga Beltrame
+  - Andrew Benz
+  - "Carmen Bravo Gonz\xE1lez-Blas"
+  - Ann Chen
+  - Benjamin DeMeo
+  - Can Ergen
+  - Swann Floc'hlay
+  - Adam Gayoso
+  - Stephanie Hicks
+  - yuge ji
+  - Vitalii Kleshchevnikov
+  - Gioele La Manno
+  - Maximilian Lombardo
+  - Romain Lopez
+  - Dario Righelli
+  - Hirak Sarkar
+  - Valentine Svensson
+  - Alexander Tong
+  - Galen Xing
+  - Chenling Xu
+  - Jonathan Bloom
+  - Angela Pisco
+  - Julio Saez-Rodriguez
+  - Drausin Wulsin
+  - Luca Pinello
+  - Yvan Saeys
+  - Fabian Theis
+  - Smita Krishnaswamy
+  publisher: Research Square Platform LLC
+  date: '2024-04-04'
+  link: https://doi.org/g8p9bf
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.adj3793
+  title: "Early life adversity shapes social subordination and cell type\u2013specific\
+    \ transcriptomic patterning in the ventral hippocampus"
+  authors:
+  - Aron Kos
+  - Juan Pablo Lopez
+  - Joeri Bordes
+  - Carlo de Donno
+  - Julien Dine
+  - Elena Brivio
+  - Stoyo Karamihalev
+  - Malte D. Luecken
+  - Suellen Almeida-Correa
+  - Serena Gasperoni
+  - Alec Dick
+  - Lucas Miranda
+  - "Maren B\xFCttner"
+  - Rainer Stoffel
+  - Cornelia Flachskamm
+  - Fabian J. Theis
+  - Mathias V. Schmidt
+  - Alon Chen
+  publisher: Science Advances
+  date: '2023-12-01'
+  link: https://doi.org/gs7wdr
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-3471275/v1
+  title: Integrated multi-omics single cell atlas of the human retina
+  authors:
+  - Rui Chen
+  - Jin Li
+  - Jun Wang
+  - Ignacio Ibarra
+  - Xuesen Cheng
+  - Malte Luecken
+  - Jiaxiong Liu
+  - Aboozar Monavarfeshani
+  - Wenjun Yan
+  - Yiqiao Zheng
+  - Zhen Zuo
+  - Samantha Colborn
+  - Berenice Cortez
+  - Leah A. Owen
+  - Nicholas Tran
+  - Karthik Shekhar
+  - Joshua Sanes
+  - Tim Stout
+  - Shiming Chen
+  - Yumei Li
+  - Margaret DeAngelis
+  - Fabian Theis
+  publisher: Research Square Platform LLC
+  date: '2023-11-17'
+  link: https://doi.org/g8p9bg
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41576-023-00586-w
+  title: Best practices for single-cell analysis across modalities
+  authors:
+  - Lukas Heumos
+  - Anna C. Schaar
+  - Christopher Lance
+  - Anastasia Litinetskaya
+  - Felix Drost
+  - Luke Zappia
+  - "Malte D. L\xFCcken"
+  - Daniel C. Strobl
+  - Juan Henao
+  - Fabiola Curion
+  - ' '
+  - Hananeh Aliee
+  - Meshal Ansari
+  - Pau Badia-i-Mompel
+  - "Maren B\xFCttner"
+  - Emma Dann
+  - Daniel Dimitrov
+  - Leander Dony
+  - Amit Frishberg
+  - Dongze He
+  - Soroor Hediyeh-zadeh
+  - Leon Hetzel
+  - Ignacio L. Ibarra
+  - Matthew G. Jones
+  - Mohammad Lotfollahi
+  - Laura D. Martens
+  - "Christian L. M\xFCller"
+  - Mor Nitzan
+  - Johannes Ostner
+  - Giovanni Palla
+  - Rob Patro
+  - Zoe Piran
+  - "Ciro Ram\xEDrez-Su\xE1stegui"
+  - Julio Saez-Rodriguez
+  - Hirak Sarkar
+  - Benjamin Schubert
+  - Lisa Sikkema
+  - Avi Srivastava
+  - Jovan Tanevski
+  - Isaac Virshup
+  - Philipp Weiler
+  - Herbert B. Schiller
+  - Fabian J. Theis
+  publisher: Nature Reviews Genetics
+  date: '2023-03-31'
+  link: https://doi.org/gr28mr
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.add8564
+  title: Synthetic enforcement of STING signaling in cancer cells appropriates the
+    immune microenvironment for checkpoint inhibitor therapy
+  authors:
+  - Larsen Vornholz
+  - Sophie E. Isay
+  - Zsuzsanna Kurgyis
+  - Daniel C. Strobl
+  - Patricia Loll
+  - Mohammed H. Mosa
+  - Malte D. Luecken
+  - Michael Sterr
+  - Heiko Lickert
+  - Christof Winter
+  - Florian R. Greten
+  - Henner F. Farin
+  - Fabian J. Theis
+  - "J\xFCrgen Ruland"
+  publisher: Science Advances
+  date: '2023-03-17'
+  link: https://doi.org/g8p9bh
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-022-31054-4
   title: Ly6D+Siglec-H+ precursors contribute to conventional dendritic cells via
     a Zbtb46+Ly6D+ intermediary stage
@@ -191,47 +405,6 @@
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:35649415
-  title: Ketamine exerts its sustained antidepressant effects via cell-type-specific
-    regulation of Kcnq2.
-  authors:
-  - Juan Pablo Lopez
-  - "Malte D L\xFCcken"
-  - Elena Brivio
-  - Stoyo Karamihalev
-  - Aron Kos
-  - Carlo De Donno
-  - Asaf Benjamin
-  - Huanqing Yang
-  - Alec L W Dick
-  - Rainer Stoffel
-  - Cornelia Flachskamm
-  - Andrea Ressle
-  - Simone Roeh
-  - Rosa-Eva Huettl
-  - Andrea Parl
-  - Carola Eggert
-  - Bozidar Novak
-  - Yu Yan
-  - Karin Yeoh
-  - Maria Holzapfel
-  - Barbara Hauger
-  - Daniela Harbich
-  - Bianca Schmid
-  - Rossella Di Giaimo
-  - Christoph W Turck
-  - Mathias V Schmidt
-  - Jan M Deussing
-  - Matthias Eder
-  - Julien Dine
-  - Fabian J Theis
-  - Alon Chen
-  publisher: Neuron
-  date: '2022-05-31'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35649415
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.neuron.2022.05.001
   title: Ketamine exerts its sustained antidepressant effects via cell-type-specific
     regulation of Kcnq2
@@ -273,16 +446,6 @@
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
-- id: dnb:1254873538
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: urn:urn:nbn:de:101:1-2022040515100720992306
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.15252/emmm.202114797
   title: "Parkinson's disease motor symptoms rescue by CRISPRa\u2010reprogramming\
     \ astrocytes into GABAergic neurons"
@@ -309,6 +472,129 @@
   publisher: EMBO Molecular Medicine
   date: '2022-04-04'
   link: https://doi.org/gpth27
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.04.11.487796
+  title: 'Multimodal single cell data integration challenge: results and lessons learned'
+  authors:
+  - Christopher Lance
+  - Malte D. Luecken
+  - Daniel B. Burkhardt
+  - Robrecht Cannoodt
+  - Pia Rautenstrauch
+  - Anna Laddach
+  - Aidyn Ubingazhibov
+  - Zhi-Jie Cao
+  - Kaiwen Deng
+  - Sumeer Khan
+  - Qiao Liu
+  - Nikolay Russkikh
+  - Gleb Ryazantsev
+  - Uwe Ohler
+  - ' '
+  - Angela Oliveira Pisco
+  - Jonathan Bloom
+  - Smita Krishnaswamy
+  - Fabian J. Theis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-12'
+  link: https://doi.org/gsvq9p
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1438584/v1
+  title: An integrated cell atlas of the human lung in health and disease
+  authors:
+  - Malte Luecken
+  - Lisa Sikkema
+  - Daniel Strobl
+  - Luke Zappia
+  - Elo Madissoon
+  - Nikolay Markov
+  - Laure-Emmanuelle Zaragosi
+  - Meshal Ansari
+  - Marie-Jeanne Arguel
+  - Leonie Apperloo
+  - Christophe Becavin
+  - Marijn Berg
+  - Evgeny Chichelnitskiy
+  - Mei-i Chung
+  - Antoine Collin
+  - Aurore Gay
+  - Baharak Hooshiar Kashani
+  - Manu Jain
+  - Theodore Kapellos
+  - Tessa Kole
+  - Christoph Mayr
+  - Michael von Papen
+  - Lance Peter
+  - "Ciro Ram\xEDrez-Su\xE1stegui"
+  - Janine Schniering
+  - Chase Taylor
+  - Thomas Walzthoeni
+  - Chuan Xu
+  - Linh Bui
+  - Carlo de Donno
+  - Leander Dony
+  - Minzhe Guo
+  - Austin Gutierrez
+  - Lukas Heumos
+  - Ni Huang
+  - "Ignacio Ibarra Del R\xEDo"
+  - Nathan Jackson
+  - Preetish Kadur Lakshminarasimha Murthy
+  - Mohammad Lotfollahi
+  - Tracy Tabib
+  - Carlos Talavera-Lopez
+  - Kyle Travaglini
+  - Anna Wilbrey-Clark
+  - Kaylee Worlock
+  - Masahiro Yoshida
+  - Tushar Desai
+  - Orit Rozenblatt-Rosen
+  - Christine Falk
+  - Naftali Kaminski
+  - Mark Krasnow
+  - Robert Lafyatis
+  - Marko Nikolic
+  - Joseph Powell
+  - Jay Rajagopal
+  - Max Seibold
+  - Dean Sheppard
+  - Douglas Shepherd
+  - Sarah Teichmann
+  - Alexander Tsankov
+  - Jeffrey Whitsett
+  - Yan Xu
+  - Nicholas Banovich
+  - Pascal Barbry
+  - Thu Duong
+  - Kerstin Meyer
+  - Jonathan Kropski
+  - Dana Pe'er
+  - Herbert Schiller
+  - Purushothama Rao Tata
+  - Joachim Schultze
+  - Maarten van den Berge
+  - Yuexin Chen
+  - James Hagood
+  - Ahmed Hassan
+  - Peter Horvath
+  - Joakim Lundeberg
+  - Sylvie Leroy
+  - Charles Marquette
+  - Gloria Pryhuber
+  - Christos Samakovlis
+  - Xin Sun
+  - Lorraine Ware
+  - Kun Zhang
+  - Alexander Misharin
+  - Martijn Nawijn
+  - Fabian Theis
+  publisher: Research Square Platform LLC
+  date: '2022-03-15'
+  link: https://doi.org/g8p9bj
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
@@ -359,6 +645,7 @@
   - A Wilbrey-Clark
   - KB Worlock
   - M Yoshida
+  - ' '
   - T Desai
   - O Eickelberg
   - C Falk
@@ -389,19 +676,12 @@
   - MC Nawijn
   - MD Luecken
   - F Theis
-  - ' '
   publisher: Cold Spring Harbor Laboratory
   date: '2022-03-11'
   link: https://doi.org/gr3t7w
   orcid: 0000-0001-7464-7921
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/03/11/2022.03.10.483747/F1.large.jpg?width=800&height=600&carousel=1
-  tags:
-  - lung
-  - atlas
-  - single-cell
-  repo: LungCellAtlas/HLCA_reproducibility
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41587-021-01001-7
   title: Mapping single-cell data to reference atlases by transfer learning
   authors:
@@ -492,131 +772,6 @@
   publisher: Cell
   date: '2021-12-01'
   link: https://doi.org/gnnbhk
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:33654293
-  title: Single-cell meta-analysis of SARS-CoV-2 entry genes across tissues and demographics.
-  authors:
-  - Christoph Muus
-  - Malte D Luecken
-  - "G\xF6kcen Eraslan"
-  - Lisa Sikkema
-  - Avinash Waghray
-  - Graham Heimberg
-  - Yoshihiko Kobayashi
-  - Eeshit Dhaval Vaishnav
-  - Ayshwarya Subramanian
-  - Christopher Smillie
-  - Karthik A Jagadeesh
-  - Elizabeth Thu Duong
-  - Evgenij Fiskin
-  - Elena Torlai Triglia
-  - Meshal Ansari
-  - Peiwen Cai
-  - Brian Lin
-  - Justin Buchanan
-  - Sijia Chen
-  - Jian Shu
-  - Adam L Haber
-  - Hattie Chung
-  - Daniel T Montoro
-  - Taylor Adams
-  - Hananeh Aliee
-  - Samuel J Allon
-  - Zaneta Andrusivova
-  - Ilias Angelidis
-  - Orr Ashenberg
-  - Kevin Bassler
-  - "Christophe B\xE9cavin"
-  - Inbal Benhar
-  - "Joseph Bergenstr\xE5hle"
-  - "Ludvig Bergenstr\xE5hle"
-  - Liam Bolt
-  - Emelie Braun
-  - Linh T Bui
-  - Steven Callori
-  - Mark Chaffin
-  - Evgeny Chichelnitskiy
-  - Joshua Chiou
-  - Thomas M Conlon
-  - Michael S Cuoco
-  - Anna S E Cuomo
-  - Marie Deprez
-  - Grant Duclos
-  - Denise Fine
-  - David S Fischer
-  - Shila Ghazanfar
-  - Astrid Gillich
-  - Bruno Giotti
-  - Joshua Gould
-  - Minzhe Guo
-  - Austin J Gutierrez
-  - Arun C Habermann
-  - Tyler Harvey
-  - Peng He
-  - Xiaomeng Hou
-  - Lijuan Hu
-  - Yan Hu
-  - Alok Jaiswal
-  - Lu Ji
-  - Peiyong Jiang
-  - Theodoros S Kapellos
-  - Christin S Kuo
-  - Ludvig Larsson
-  - Michael A Leney-Greene
-  - Kyungtae Lim
-  - "Monika Litvi\u0148ukov\xE1"
-  - Leif S Ludwig
-  - Soeren Lukassen
-  - Wendy Luo
-  - Henrike Maatz
-  - Elo Madissoon
-  - Lira Mamanova
-  - Kasidet Manakongtreecheep
-  - Sylvie Leroy
-  - Christoph H Mayr
-  - Ian M Mbano
-  - Alexi M McAdams
-  - Ahmad N Nabhan
-  - Sarah K Nyquist
-  - Lolita Penland
-  - Olivier B Poirion
-  - Sergio Poli
-  - CanCan Qi
-  - Rachel Queen
-  - Daniel Reichart
-  - Ivan Rosas
-  - Jonas C Schupp
-  - Conor V Shea
-  - Xingyi Shi
-  - Rahul Sinha
-  - Rene V Sit
-  - Kamil Slowikowski
-  - Michal Slyper
-  - Neal P Smith
-  - Alex Sountoulidis
-  - Maximilian Strunz
-  - Travis B Sullivan
-  - Dawei Sun
-  - "Carlos Talavera-L\xF3pez"
-  - Peng Tan
-  - Jessica Tantivit
-  - Kyle J Travaglini
-  - Nathan R Tucker
-  - Katherine A Vernon
-  - Marc H Wadsworth
-  - Julia Waldman
-  - Xiuting Wang
-  - Ke Xu
-  - Wenjun Yan
-  - William Zhao
-  - Carly G K Ziegler
-  - ' '
-  - ' '
-  publisher: Nature medicine
-  date: '2021-03-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33654293
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
@@ -737,6 +892,7 @@
   - Wenjun Yan
   - William Zhao
   - Carly G. K. Ziegler
+  - ' '
   - Gail H. Deutsch
   - Jennifer Dutra
   - Kyle J. Gaulton
@@ -752,6 +908,7 @@
   - Allen Wang
   - Jeffrey A. Whitsett
   - Yan Xu
+  - ' '
   - Jehan Alladina
   - Nicholas E. Banovich
   - Pascal Barbry
@@ -857,8 +1014,6 @@
   - Hongbo Zhang
   - Kun Zhang
   - Xiaohui Zhang
-  - ' '
-  - ' '
   publisher: Nature Medicine
   date: '2021-03-01'
   link: https://doi.org/gh6kjz
@@ -893,16 +1048,6 @@
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
-- id: urn:urn:nbn:de:bvb:384-opus4-898686
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: dnb:1243436174
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/2020.07.16.205997
   title: Query to reference single-cell integration with transfer learning
   authors:
@@ -921,7 +1066,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.06.23.167098
-  title: RAAS blockade, kidney disease, and expression of <i>ACE2</i>, the entry receptor
+  title: RAAS blockade, kidney disease, and expression of<i>ACE2</i>, the entry receptor
     for SARS-CoV-2, in kidney epithelial and endothelial cells
   authors:
   - Ayshwarya Subramanian
@@ -938,9 +1083,9 @@
   - Danielle Dionne
   - Orit Rozenblatt-Rosen
   - Astrid Weins
+  - ' '
   - Aviv Regev
   - Anna Greka
-  - ' '
   publisher: Cold Spring Harbor Laboratory
   date: '2020-06-23'
   link: https://doi.org/gr4h6m
@@ -1188,13 +1333,115 @@
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
-- id: source-work-id:BASE:2fc534ecd9aa4283ade1756179250d6792f350bce5f9dc6f84cb7e9cf2b4ca86
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: source-work-id:BASE:1652b86714160b67dd29ab496758e70d35f883f81a5d0097dddb7ee8118c2db3
-  orcid: 0000-0001-7464-7921
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
+- id: doi:10.1038/s41591-023-02327-2
+  title: An integrated cell atlas of the lung in health and disease
+  authors:
+  - Lisa Sikkema
+  - "Ciro Ram\xEDrez-Su\xE1stegui"
+  - Daniel C. Strobl
+  - Tessa E. Gillett
+  - Luke Zappia
+  - Elo Madissoon
+  - Nikolay S. Markov
+  - Laure-Emmanuelle Zaragosi
+  - Yuge Ji
+  - Meshal Ansari
+  - Marie-Jeanne Arguel
+  - Leonie Apperloo
+  - Martin Banchero
+  - "Christophe B\xE9cavin"
+  - Marijn Berg
+  - Evgeny Chichelnitskiy
+  - Mei-i Chung
+  - Antoine Collin
+  - Aurore C. A. Gay
+  - Janine Gote-Schniering
+  - Baharak Hooshiar Kashani
+  - Kemal Inecik
+  - Manu Jain
+  - Theodore S. Kapellos
+  - Tessa M. Kole
+  - Sylvie Leroy
+  - Christoph H. Mayr
+  - Amanda J. Oliver
+  - Michael von Papen
+  - Lance Peter
+  - Chase J. Taylor
+  - Thomas Walzthoeni
+  - Chuan Xu
+  - Linh T. Bui
+  - Carlo De Donno
+  - Leander Dony
+  - Alen Faiz
+  - Minzhe Guo
+  - Austin J. Gutierrez
+  - Lukas Heumos
+  - Ni Huang
+  - Ignacio L. Ibarra
+  - Nathan D. Jackson
+  - Preetish Kadur Lakshminarasimha Murthy
+  - Mohammad Lotfollahi
+  - Tracy Tabib
+  - "Carlos Talavera-L\xF3pez"
+  - Kyle J. Travaglini
+  - Anna Wilbrey-Clark
+  - Kaylee B. Worlock
+  - Masahiro Yoshida
+  - ' '
+  - Yuexin Chen
+  - James S. Hagood
+  - Ahmed Agami
+  - Peter Horvath
+  - Joakim Lundeberg
+  - Charles-Hugo Marquette
+  - Gloria Pryhuber
+  - Chistos Samakovlis
+  - Xin Sun
+  - Lorraine B. Ware
+  - Kun Zhang
+  - Maarten van den Berge
+  - "Yohan Boss\xE9"
+  - Tushar J. Desai
+  - Oliver Eickelberg
+  - Naftali Kaminski
+  - Mark A. Krasnow
+  - Robert Lafyatis
+  - Marko Z. Nikolic
+  - Joseph E. Powell
+  - Jayaraj Rajagopal
+  - Mauricio Rojas
+  - Orit Rozenblatt-Rosen
+  - Max A. Seibold
+  - Dean Sheppard
+  - Douglas P. Shepherd
+  - Don D. Sin
+  - Wim Timens
+  - Alexander M. Tsankov
+  - Jeffrey Whitsett
+  - Yan Xu
+  - Nicholas E. Banovich
+  - Pascal Barbry
+  - Thu Elizabeth Duong
+  - Christine S. Falk
+  - Kerstin B. Meyer
+  - Jonathan A. Kropski
+  - "Dana Pe\u2019er"
+  - Herbert B. Schiller
+  - Purushothama Rao Tata
+  - Joachim L. Schultze
+  - Sara A. Teichmann
+  - Alexander V. Misharin
+  - Martijn C. Nawijn
+  - Malte D. Luecken
+  - Fabian J. Theis
+  publisher: Nature Medicine
+  date: '2023-06-01'
+  link: https://doi.org/khg8
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/03/11/2022.03.10.483747/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - lung
+  - atlas
+  - single-cell
+  repo: LungCellAtlas/HLCA_reproducibility
+  plugin: sources.py
+  file: sources.yaml
