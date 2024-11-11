@@ -34,7 +34,7 @@ We had a pleasure of working with the following people:
 
 {% capture text %}
 
-According to [our values](https://lueckenlab.github.io/org-website/#our-values), life and science should be not only productive, but also fun. And we are enjoying it along the way!
+According to [our values](https://lueckenlab.github.io/org-website/culture#our-values), life and science should be not only productive, but also fun. And we are enjoying it along the way!
 
 {% endcapture %}
 
