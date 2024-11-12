@@ -13,4 +13,4 @@ links:
   google-scholar: Nr4KBvUAAAAJ
 ---
 
-Principal Iinvestigator of the Lücken Lab.
+Principal Investigator of the Lücken Lab.

@@ -1,5 +1,5 @@
 ---
-name: Michaella Müller
+name: Michaela Müller
 image: https://avatars.githubusercontent.com/u/51025211?v=4
 role: phd
 group: alum
