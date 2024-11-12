@@ -16,4 +16,4 @@ links:
   google-scholar: MnHV_-QAAAAJ
 ---
 
-Ciro worked with us as a research assstant for several years, contributing to Human Lung Cell Atlas (Sikkema et al., Nat Med 2023), Best practices for single-cell analysis across modalities (Heumos et al., Nat Rev Genet 2023) and many other projects. He then continued his scientific adventure at The Wellcome Sanger Institute.
+Ciro worked with us as a research assistant for several years, contributing to Human Lung Cell Atlas (Sikkema et al., Nat Med 2023), Best practices for single-cell analysis across modalities (Heumos et al., Nat Rev Genet 2023) and many other projects. He then continued his scientific adventure at The Wellcome Sanger Institute.
