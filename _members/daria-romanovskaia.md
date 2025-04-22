@@ -1,7 +1,7 @@
 ---
 name: Daria Romanovskaia
 image: https://ca.slack-edge.com/T05AV1DQJ73-U08KR6DUPC5-9cac7014b61c-512
-role: Postdoc
+role: postdoc
 description: Postdoc
 group: alum
 aliases:
