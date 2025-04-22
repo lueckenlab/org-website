@@ -1,5 +1,90 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21105/joss.07698
+  title: 'funkyheatmap: Visualising data frames with mixed data types'
+  authors:
+  - Robrecht Cannoodt*
+  - Louise Deconinck*
+  - Artuur Couckuyt*
+  - Nikolay S. Markov*
+  - Luke Zappia
+  - Malte D. Luecken
+  - Marta Interlandi
+  - "Yvan Saeys\u2020"
+  - "Wouter Saelens\u2020"
+  publisher: Journal of Open Source Software
+  date: '2025-04-11'
+  link: https://doi.org/g9f95r
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-025-02624-3
+  title: Feature selection methods affect the performance of scRNA-seq data integration
+    and querying
+  authors:
+  - Luke Zappia
+  - Sabrina Richter
+  - "Ciro Ram\xEDrez-Su\xE1stegui"
+  - Raphael Kfuri-Rubens
+  - Larsen Vornholz
+  - Weixu Wang
+  - Oliver Dietrich
+  - Amit Frishberg
+  - Malte D. Luecken
+  - Fabian J. Theis
+  publisher: Nature Methods
+  date: '2025-03-13'
+  link: https://doi.org/g886fv
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41556-025-01619-8
+  title: Biases in machine-learning models of human single-cell data
+  authors:
+  - Theresa Willem
+  - Vladimir A. Shitov
+  - Malte D. Luecken
+  - Niki Kilbertus
+  - Stefan Bauer
+  - Marie Piraud
+  - Alena Buyx
+  - Fabian J. Theis
+  publisher: Nature Cell Biology
+  date: '2025-02-19'
+  link: https://doi.org/g9f95s
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-024-02496-z
+  title: Probe set selection for targeted spatial transcriptomics
+  authors:
+  - Louis B. Kuemmerle
+  - Malte D. Luecken
+  - Alexandra B. Firsova
+  - Lisa Barros de Andrade e Sousa
+  - "Lena Stra\xDFer"
+  - Ilhem Isra Mekki
+  - Francesco Campi
+  - Lukas Heumos
+  - Maiia Shulman
+  - Valentina Beliaeva
+  - Soroor Hediyeh-Zadeh
+  - Anna C. Schaar
+  - Krishnaa T. Mahbubani
+  - Alexandros Sountoulidis
+  - "Tam\xE1s Balassa"
+  - Ferenc Kovacs
+  - Peter Horvath
+  - Marie Piraud
+  - "Ali Ert\xFCrk"
+  - Christos Samakovlis
+  - Fabian J. Theis
+  publisher: Nature Methods
+  date: '2024-11-18'
+  link: https://doi.org/g886ms
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.09.19.613883
   title: 'ArchMap: A web-based platform for reference-based analysis of single-cell
     datasets'

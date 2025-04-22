@@ -10,7 +10,7 @@ links:
   email: raphael.kfuri-rubens@helmholtz-munich.de
   home-page: http://raphaelkfurirubens.com/
   twitter: raphaelkrubens
-  linkedin: https://www.linkedin.com/in/raphael-rubens-026560155/
+  linkedin: raphael-rubens-026560155/
   google-scholar: 4XVFvnUAAAAJ
 ---
 
