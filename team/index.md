@@ -12,6 +12,7 @@ Meet the faces and names of the heart of the lab!
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^postdoc$" %}
 {% include list.html data="members" component="portrait" filters="role: ^phd$" %}
 {% include list.html data="members" component="portrait" filters="role: phd_associate" %}
 
