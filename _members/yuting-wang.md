@@ -13,7 +13,7 @@ links:
   email: yuting.wang@helmholtz-munich.de
   home-page: https://github.com/yuyutingw
   twitter: YutingWang12069
-  linkedin: https://www.linkedin.com/in/yuting27/
+  linkedin: yuting27/
   google-scholar: 4gGcLewAAAAJ
 ---
 
