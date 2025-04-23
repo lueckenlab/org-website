@@ -2,7 +2,7 @@
 name: Nikita Moshkov
 image: https://ca.slack-edge.com/T05AV1DQJ73-U08HM4CMJ4X-397386495b9a-192
 role: postdoc
-description: Postdoc
+description: Associated Postdoc
 group: alum
 aliases:
   - Moshkov
