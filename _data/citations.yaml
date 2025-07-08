@@ -1,5 +1,84 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41587-025-02694-w
+  title: Defining and benchmarking open problems in single-cell analysis
+  authors:
+  - Malte D. Luecken
+  - Scott Gigante
+  - Daniel B. Burkhardt
+  - Robrecht Cannoodt
+  - Daniel C. Strobl
+  - Nikolay S. Markov
+  - Luke Zappia
+  - Giovanni Palla
+  - Wesley Lewis
+  - Daniel Dimitrov
+  - Michael E. Vinyard
+  - D. S. Magruder
+  - Michaela F. Mueller
+  - Alma Andersson
+  - Emma Dann
+  - Qian Qin
+  - Dominik J. Otto
+  - Michal Klein
+  - Olga Borisovna Botvinnik
+  - Louise Deconinck
+  - Kai Waldrant
+  - Sai Nirmayi Yasa
+  - "Artur Sza\u0142ata"
+  - Andrew Benz
+  - Zhijian Li
+  - ' '
+  - Bastian Rieck
+  - Constantin Ahlmann-Eltze
+  - Eduardo da Veiga Beltrame
+  - "Carmen Bravo Gonz\xE1lez-Blas"
+  - Ann T. Chen
+  - Benjamin DeMeo
+  - Can Ergen
+  - "Swann Floc\u2019hlay"
+  - Adam Gayoso
+  - Stephanie Hicks
+  - Yuge Ji
+  - Vitalii Kleshchevnikov
+  - Gioele La Manno
+  - Maximilian G. Lombardo
+  - Romain Lopez
+  - Dario Righelli
+  - Hirak Sarkar
+  - Valentine Svensson
+  - Alexander Tong
+  - Galen Xing
+  - Chenling Xu
+  - Jonathan M. Bloom
+  - Angela Oliveira Pisco
+  - Julio Saez-Rodriguez
+  - Drausin Wulsin
+  - Luca Pinello
+  - Yvan Saeys
+  - Fabian J. Theis
+  - Smita Krishnaswamy
+  publisher: Nature Biotechnology
+  date: '2025-07-01'
+  link: https://doi.org/g9rx6f
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.23.661141
+  title: 'Beyond Visual Inspection: Principled Benchmarking of Single-Cell Trajectory
+    Representations with scTRAM'
+  authors:
+  - Kemal Inecik
+  - Antony Rose
+  - Muzlifah Haniffa
+  - Malte Luecken
+  - Fabian J. Theis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-27'
+  link: https://doi.org/g9smgx
+  orcid: 0000-0001-7464-7921
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21105/joss.07698
   title: 'funkyheatmap: Visualising data frames with mixed data types'
   authors:
