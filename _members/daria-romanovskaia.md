@@ -14,4 +14,4 @@ links:
   linkedin: daria-romanovskaia-b37b2a8a/
 ---
 
-During her PhD Daria has worked in Center for Molecular Medicine in the field of computational epigenetics. She is working on computational approaches for understanding resistance mechanisms and novel biomarkers for patient stratification from multi-modal cohorts in NSCLC as part of the SPACETIME consortium.
+During her PhD Daria has worked in Center for Molecular Medicine in the field of computational epigenetics. She is working on computational approaches for understanding resistance mechanisms and novel biomarkers for patient stratification from multi-modal cohorts.
