@@ -19,6 +19,8 @@ Here's a list of the latest papers from the lab.
 
 {% include citation.html lookup="Benchmarking atlas-level data integration in single-cell genomics" style="rich" %}
 
+{% include citation.html lookup="Defining and benchmarking open problems in single-cell analysis" style="rich" %}
+
 {% include section.html %}
 
 ## All
