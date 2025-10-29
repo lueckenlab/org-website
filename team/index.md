@@ -26,6 +26,8 @@ We had a pleasure of working with the following people:
 - **Hao Yuan** from Kasper lab at the Karolinska Institute
 - **Ana-Maria Cujba** from Teichmann Lab at the Welcome Sanger Institute
 - **Janneke Hulsen** from Vrije Universiteit Amsterdam
+- **Mohammad Moghareh Dehkordi** from Technical University of Munich
+- **Emma Schonner** from Technical University of Munich
 
 {% include section.html background="images/team.jpg" dark=true align="center" %}
 
