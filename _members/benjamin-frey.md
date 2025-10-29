@@ -9,7 +9,6 @@ aliases:
 links:
   email: benjam.frey@helmholtz-munich.de
   home-page: https://github.com/benjaminfreyuu
-  twitter: shitov_happens
   google-scholar: g_X4h4cAAAAJ
   orcid: 0009-0004-7649-8340
   linkedin: benjamin-frey-ger/
