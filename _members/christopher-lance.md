@@ -1,6 +1,6 @@
 ---
 name: Christopher Lance
-image: https://pbs.twimg.com/profile_images/1163428158978347008/GvZ-QLbm_400x400.jpg
+image: images/christopher-lance.jpeg
 role: phd_associate
 group: alum
 aliases:
