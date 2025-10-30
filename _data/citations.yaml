@@ -64,6 +64,7 @@
   orcid: 0000-0001-7464-7921
   plugin: orcid.py
   file: orcid.yaml
+  image: https://github.com/lueckenlab/org-website/blob/main/images/open_problems_logo.png?raw=true
 - id: doi:10.1101/2025.06.23.661141
   title: 'Beyond Visual Inspection: Principled Benchmarking of Single-Cell Trajectory
     Representations with scTRAM'
