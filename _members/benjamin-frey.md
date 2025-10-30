@@ -7,7 +7,7 @@ aliases:
   - Frey
   - benjaminfreyuu
 links:
-  email: benjam.frey@helmholtz-munich.de
+  email: benjamin.frey@helmholtz-munich.de
   home-page: https://github.com/benjaminfreyuu
   google-scholar: g_X4h4cAAAAJ
   orcid: 0009-0004-7649-8340
