@@ -1,6 +1,7 @@
 ---
 name: Julia Naas
 role: postdoc
+description: Postdoc
 group: alum
 aliases:
   - Naas
